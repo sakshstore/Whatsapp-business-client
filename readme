@@ -10,7 +10,7 @@ OTP 124578
 Documentation: https://github.com/sakshstore/Whatsapp-business-client/tree/main
 
 
-Regular Features
+Features
 
 1 Unlimited meta app configurartion
 2 Unlimited whatsapp account
@@ -20,7 +20,7 @@ Regular Features
 6 Block Customer / Ban customer
 7 Bookmark a message and filter by bookmark
 8 Google Recaptcha v3 integrated
-9 Admin Login history in admin for security audit
+9 Admin Login history in admin for security audit and email notification on each login.
 10 Script autobackup and configurable by admin 
 11
 
