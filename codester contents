@@ -1,8 +1,22 @@
 Name
 
+Whatsapp-business-client
+
 Short description
+Whatsapp-business-client is a web application that lets businesses chat with their customers on WhatsApp using our website interface. It connects with the WhatsApp Business API. With Whatsapp-business-client, businesses can send and receive text, image, video, document, and audio messages. Whatsapp-business-client uses Laravel 10, Jquery, and Bootstrap 5 technologies.
+
+
 
 Description
+
+
+•  Whatsapp-business-client helps businesses to improve their customer service and engagement by providing a convenient and familiar way of communication.
+
+•  Whatsapp-business-client also allows businesses to manage their contacts and groups, create templates and quick replies, and track message delivery and read status.
+
+•  Whatsapp-business-client is easy to install and configure, and supports multiple languages and themes.
+
+
 
 Features
 
