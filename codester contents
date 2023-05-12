@@ -2,6 +2,8 @@ Name
 
 Whatsapp-business-client
 
+
+
 Short description
 Whatsapp-business-client is a web application that lets businesses chat with their customers on WhatsApp using our website interface. 
 It connects with the WhatsApp Business API with whatsapp-business-client, businesses can send and receive text, image, video, document, and audio messages.
